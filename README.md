@@ -68,5 +68,5 @@ The project highlights the potential of hyperspectral imaging as a fast and effe
 
 - The `paper' can be accessed [here](https://www.mdpi.com/2304-8158/12/3/429)
 
-- The `HTML' output/report from R Quarto documnetation with the codes and the output can be accessed from here: 
+- The `HTML' output/report from R Quarto documnetation with the codes and the output can be accessed from here: https://dnmalavi.github.io/Machine_Learning_Olive_Oil_Fraud/ 
 
